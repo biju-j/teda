@@ -1,0 +1,5 @@
+pytest==7.3.0
+pytest_httpx==0.21.3
+pytest-dependency==0.5.1
+pytest-html-reporter==0.2.9
+boto3==1.26.107
